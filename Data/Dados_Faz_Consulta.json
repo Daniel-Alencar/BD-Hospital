@@ -1,0 +1,52 @@
+[
+	{
+		"PKFK_medicoCRM": "93891162-7",
+		"PKFK_consultaID": 1,
+		"valor_medico": 115.94
+	},
+	{
+		"PKFK_medicoCRM": "74232243-8",
+		"PKFK_consultaID": 2,
+		"valor_medico": 58.69
+	},
+	{
+		"PKFK_medicoCRM": "59797281-2",
+		"PKFK_consultaID": 3,
+		"valor_medico": 39.67
+	},
+	{
+		"PKFK_medicoCRM": "69725387-7",
+		"PKFK_consultaID": 4,
+		"valor_medico": 43.40
+	},
+	{
+		"PKFK_medicoCRM": "91385238-5",
+		"PKFK_consultaID": 5,
+		"valor_medico": 68.66
+	},
+	{
+		"PKFK_medicoCRM": "38326283-6",
+		"PKFK_consultaID": 6,
+		"valor_medico": 56.64
+	},
+	{
+		"PKFK_medicoCRM": "20431486-8",
+		"PKFK_consultaID": 7,
+		"valor_medico": 39.73
+	},
+	{
+		"PKFK_medicoCRM": "22732389-7",
+		"PKFK_consultaID": 8,
+		"valor_medico": 57.15
+	},
+	{
+		"PKFK_medicoCRM": "82657956-6",
+		"PKFK_consultaID": 9,
+		"valor_medico": 52.19
+	},
+	{
+		"PKFK_medicoCRM": "95824184-7",
+		"PKFK_consultaID": 10,
+		"valor_medico": 53.66
+	}
+]

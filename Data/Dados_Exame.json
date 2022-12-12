@@ -1,0 +1,802 @@
+[
+	{
+		"medicoCRM": "46251973-6",
+		"pacienteCPF": "514.632.823-98",
+		"valor_exame": 79.27,
+		"descrição": "laoreet posuere, enim nisl elementum purus, accumsan interdum libero dui",
+		"data": "09/04/2022",
+		"resultado": "dictum ultricies ligula. Nullam enim. Sed nulla ante, iaculis nec, eleifend non, dapibus"
+	},
+	{
+		"medicoCRM": "65758935-7",
+		"pacienteCPF": "342.628.514-46",
+		"valor_exame": 89.63,
+		"descrição": "in, hendrerit consectetuer, cursus et, magna.",
+		"data": "01/10/2023",
+		"resultado": "facilisis. Suspendisse"
+	},
+	{
+		"medicoCRM": "27264354-2",
+		"pacienteCPF": "623.475.548-39",
+		"valor_exame": 86.28,
+		"descrição": "Morbi quis urna. Nunc quis arcu vel quam",
+		"data": "05/16/2022",
+		"resultado": "eu nibh vulputate mauris sagittis placerat. Cras dictum ultricies"
+	},
+	{
+		"medicoCRM": "74530524-8",
+		"pacienteCPF": "451.369.872-42",
+		"valor_exame": 126.18,
+		"descrição": "nibh. Donec est mauris, rhoncus id, mollis nec, cursus a, enim. Suspendisse aliquet, sem ut cursus luctus,",
+		"data": "01/21/2022",
+		"resultado": "pharetra ut, pharetra sed, hendrerit a, arcu. Sed et libero. Proin mi. Aliquam gravida mauris ut"
+	},
+	{
+		"medicoCRM": "42372170-6",
+		"pacienteCPF": "763.547.826-91",
+		"valor_exame": 123.28,
+		"descrição": "at sem molestie sodales. Mauris blandit enim consequat purus. Maecenas libero est, congue a,",
+		"data": "11/12/2023",
+		"resultado": "dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec"
+	},
+	{
+		"medicoCRM": "46858737-5",
+		"pacienteCPF": "714.399.108-17",
+		"valor_exame": 101.08,
+		"descrição": "magnis dis parturient montes, nascetur ridiculus mus. Aenean eget magna. Suspendisse tristique neque venenatis lacus. Etiam",
+		"data": "08/02/2022",
+		"resultado": "Curabitur massa. Vestibulum accumsan neque et nunc. Quisque ornare tortor at risus. Nunc ac sem ut dolor"
+	},
+	{
+		"medicoCRM": "92492733-5",
+		"pacienteCPF": "653.966.553-21",
+		"valor_exame": 144.91,
+		"descrição": "semper pretium neque. Morbi quis urna. Nunc quis arcu vel quam dignissim pharetra. Nam ac nulla. In",
+		"data": "01/22/2023",
+		"resultado": "Phasellus ornare. Fusce mollis. Duis sit amet diam eu dolor egestas rhoncus. Proin"
+	},
+	{
+		"medicoCRM": "16417540-2",
+		"pacienteCPF": "954.138.332-88",
+		"valor_exame": 90.65,
+		"descrição": "ac, fermentum vel, mauris. Integer sem elit, pharetra ut, pharetra sed, hendrerit a, arcu.",
+		"data": "02/25/2022",
+		"resultado": "sit amet nulla. Donec non justo. Proin non massa non ante bibendum ullamcorper. Duis cursus, diam at pretium"
+	},
+	{
+		"medicoCRM": "40305440-5",
+		"pacienteCPF": "929.614.955-46",
+		"valor_exame": 104.86,
+		"descrição": "vestibulum. Mauris magna. Duis dignissim tempor arcu. Vestibulum ut",
+		"data": "04/12/2022",
+		"resultado": "vulputate, risus a ultricies adipiscing, enim mi tempor lorem, eget mollis lectus pede"
+	},
+	{
+		"medicoCRM": "51899084-8",
+		"pacienteCPF": "235.213.049-76",
+		"valor_exame": 91.22,
+		"descrição": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae Donec tincidunt. Donec vitae erat vel pede",
+		"data": "10/18/2023",
+		"resultado": "Proin vel arcu eu odio tristique pharetra. Quisque ac libero nec ligula"
+	},
+	{
+		"medicoCRM": "70275782-6",
+		"pacienteCPF": "240.527.518-52",
+		"valor_exame": 92.43,
+		"descrição": "diam eu dolor egestas rhoncus. Proin nisl",
+		"data": "11/27/2023",
+		"resultado": "Nullam scelerisque neque sed sem egestas blandit. Nam nulla magna,"
+	},
+	{
+		"medicoCRM": "64382854-7",
+		"pacienteCPF": "568.665.276-87",
+		"valor_exame": 92.30,
+		"descrição": "eu tempor erat neque non quam.",
+		"data": "08/14/2023",
+		"resultado": "Proin dolor. Nulla semper tellus id nunc"
+	},
+	{
+		"medicoCRM": "74641313-1",
+		"pacienteCPF": "175.431.330-53",
+		"valor_exame": 137.24,
+		"descrição": "Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu",
+		"data": "11/16/2022",
+		"resultado": "Nam tempor diam"
+	},
+	{
+		"medicoCRM": "47147375-2",
+		"pacienteCPF": "311.559.248-89",
+		"valor_exame": 98.39,
+		"descrição": "amet diam eu dolor egestas rhoncus. Proin nisl sem, consequat nec, mollis vitae, posuere at, velit.",
+		"data": "04/16/2023",
+		"resultado": "felis ullamcorper viverra. Maecenas iaculis aliquet diam. Sed diam lorem, auctor quis, tristique ac, eleifend vitae, erat. Vivamus"
+	},
+	{
+		"medicoCRM": "52094183-7",
+		"pacienteCPF": "954.012.934-74",
+		"valor_exame": 115.76,
+		"descrição": "tellus eu augue porttitor interdum. Sed auctor odio a purus. Duis",
+		"data": "06/18/2023",
+		"resultado": "ipsum primis in faucibus orci luctus et"
+	},
+	{
+		"medicoCRM": "68729881-6",
+		"pacienteCPF": "823.585.312-05",
+		"valor_exame": 74.67,
+		"descrição": "ornare sagittis felis. Donec tempor, est ac mattis semper, dui lectus rutrum urna, nec luctus felis",
+		"data": "02/08/2022",
+		"resultado": "fames ac turpis egestas. Aliquam fringilla cursus purus. Nullam scelerisque neque sed sem egestas"
+	},
+	{
+		"medicoCRM": "71707903-8",
+		"pacienteCPF": "378.349.128-66",
+		"valor_exame": 140.47,
+		"descrição": "per inceptos hymenaeos. Mauris ut quam vel sapien imperdiet ornare. In faucibus. Morbi vehicula. Pellentesque tincidunt tempus risus.",
+		"data": "05/17/2023",
+		"resultado": "ac libero nec ligula consectetuer rhoncus. Nullam velit dui, semper et, lacinia vitae, sodales"
+	},
+	{
+		"medicoCRM": "68213578-4",
+		"pacienteCPF": "841.129.786-29",
+		"valor_exame": 123.41,
+		"descrição": "parturient montes, nascetur ridiculus mus. Aenean eget magna. Suspendisse tristique",
+		"data": "12/21/2022",
+		"resultado": "vel sapien"
+	},
+	{
+		"medicoCRM": "17261655-2",
+		"pacienteCPF": "381.914.170-40",
+		"valor_exame": 93.73,
+		"descrição": "Curae Phasellus ornare. Fusce mollis. Duis sit amet diam eu",
+		"data": "03/09/2023",
+		"resultado": "aliquet, metus urna convallis erat,"
+	},
+	{
+		"medicoCRM": "53417453-6",
+		"pacienteCPF": "897.084.121-63",
+		"valor_exame": 102.75,
+		"descrição": "dictum ultricies ligula. Nullam enim. Sed nulla ante, iaculis nec, eleifend non, dapibus rutrum,",
+		"data": "05/29/2023",
+		"resultado": "Morbi quis urna. Nunc quis arcu vel"
+	},
+	{
+		"medicoCRM": "41388627-4",
+		"pacienteCPF": "721.094.848-61",
+		"valor_exame": 95.95,
+		"descrição": "ullamcorper",
+		"data": "04/04/2022",
+		"resultado": "eros turpis non enim. Mauris quis"
+	},
+	{
+		"medicoCRM": "76689115-6",
+		"pacienteCPF": "686.365.832-96",
+		"valor_exame": 169.68,
+		"descrição": "orci.",
+		"data": "02/16/2022",
+		"resultado": "auctor ullamcorper, nisl arcu iaculis enim, sit amet ornare lectus justo eu arcu."
+	},
+	{
+		"medicoCRM": "42522182-7",
+		"pacienteCPF": "328.360.683-37",
+		"valor_exame": 107.52,
+		"descrição": "Fusce diam nunc, ullamcorper eu, euismod ac, fermentum vel, mauris.",
+		"data": "02/17/2023",
+		"resultado": "parturient montes, nascetur ridiculus mus. Donec dignissim magna a tortor. Nunc commodo auctor velit. Aliquam nisl. Nulla"
+	},
+	{
+		"medicoCRM": "44545573-7",
+		"pacienteCPF": "341.134.217-07",
+		"valor_exame": 127.76,
+		"descrição": "quis massa. Mauris vestibulum, neque sed dictum eleifend, nunc risus varius orci,",
+		"data": "04/03/2022",
+		"resultado": "orci tincidunt adipiscing. Mauris molestie pharetra nibh. Aliquam ornare, libero at auctor ullamcorper, nisl arcu iaculis"
+	},
+	{
+		"medicoCRM": "93165576-6",
+		"pacienteCPF": "250.555.556-83",
+		"valor_exame": 129.54,
+		"descrição": "ante. Vivamus non lorem vitae odio sagittis semper. Nam tempor diam dictum sapien. Aenean massa. Integer",
+		"data": "07/18/2022",
+		"resultado": "egestas a, dui. Cras pellentesque. Sed dictum. Proin eget"
+	},
+	{
+		"medicoCRM": "54183382-7",
+		"pacienteCPF": "389.466.852-41",
+		"valor_exame": 112.96,
+		"descrição": "augue id ante dictum cursus. Nunc mauris elit, dictum eu, eleifend nec, malesuada ut, sem.",
+		"data": "07/08/2022",
+		"resultado": "sit amet metus. Aliquam erat volutpat. Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus nulla."
+	},
+	{
+		"medicoCRM": "17357232-8",
+		"pacienteCPF": "892.145.440-65",
+		"valor_exame": 101.69,
+		"descrição": "consectetuer mauris id sapien. Cras dolor dolor, tempus non, lacinia at, iaculis quis, pede. Praesent eu dui. Cum sociis",
+		"data": "01/30/2022",
+		"resultado": "vel quam dignissim pharetra. Nam ac nulla. In tincidunt congue turpis."
+	},
+	{
+		"medicoCRM": "47178734-8",
+		"pacienteCPF": "671.276.354-16",
+		"valor_exame": 90.18,
+		"descrição": "pretium aliquet, metus urna convallis erat, eget tincidunt dui augue eu tellus. Phasellus elit pede,",
+		"data": "11/18/2023",
+		"resultado": "arcu. Sed eu nibh vulputate mauris"
+	},
+	{
+		"medicoCRM": "59916687-3",
+		"pacienteCPF": "688.731.167-06",
+		"valor_exame": 79.81,
+		"descrição": "commodo tincidunt nibh. Phasellus nulla. Integer vulputate,",
+		"data": "11/04/2023",
+		"resultado": "est arcu ac orci. Ut semper pretium neque. Morbi quis"
+	},
+	{
+		"medicoCRM": "64676658-9",
+		"pacienteCPF": "953.177.723-77",
+		"valor_exame": 101.93,
+		"descrição": "at pretium aliquet, metus urna convallis erat, eget tincidunt",
+		"data": "11/15/2022",
+		"resultado": "neque. Sed eget lacus. Mauris non dui nec urna suscipit nonummy. Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in"
+	},
+	{
+		"medicoCRM": "57215805-9",
+		"pacienteCPF": "179.677.956-01",
+		"valor_exame": 95.91,
+		"descrição": "nonummy.",
+		"data": "02/21/2022",
+		"resultado": "placerat eget, venenatis a, magna. Lorem ipsum dolor sit amet,"
+	},
+	{
+		"medicoCRM": "31342641-6",
+		"pacienteCPF": "678.560.502-46",
+		"valor_exame": 91.36,
+		"descrição": "Morbi vehicula. Pellentesque tincidunt tempus risus. Donec egestas. Duis",
+		"data": "10/21/2022",
+		"resultado": "nibh dolor, nonummy ac, feugiat non, lobortis quis, pede. Suspendisse dui. Fusce diam nunc, ullamcorper eu, euismod"
+	},
+	{
+		"medicoCRM": "21185587-3",
+		"pacienteCPF": "669.984.141-32",
+		"valor_exame": 119.28,
+		"descrição": "eu enim. Etiam imperdiet dictum magna. Ut tincidunt orci quis",
+		"data": "06/03/2022",
+		"resultado": "est. Nunc ullamcorper, velit in aliquet lobortis, nisi nibh lacinia orci, consectetuer"
+	},
+	{
+		"medicoCRM": "85578115-9",
+		"pacienteCPF": "327.661.461-46",
+		"valor_exame": 93.91,
+		"descrição": "dolor sit amet, consectetuer adipiscing elit. Curabitur sed tortor.",
+		"data": "01/07/2022",
+		"resultado": "eleifend egestas. Sed pharetra, felis eget varius ultrices, mauris ipsum porta elit, a feugiat tellus lorem eu metus. In lorem."
+	},
+	{
+		"medicoCRM": "25335880-8",
+		"pacienteCPF": "116.133.467-38",
+		"valor_exame": 104.27,
+		"descrição": "Vivamus nisi. Mauris nulla. Integer urna. Vivamus molestie dapibus ligula. Aliquam",
+		"data": "09/30/2022",
+		"resultado": "ipsum porta elit, a feugiat tellus lorem eu metus."
+	},
+	{
+		"medicoCRM": "93297873-8",
+		"pacienteCPF": "258.718.393-59",
+		"valor_exame": 136.25,
+		"descrição": "elit fermentum risus, at fringilla purus mauris a nunc. In at",
+		"data": "10/29/2022",
+		"resultado": "vitae erat vel pede"
+	},
+	{
+		"medicoCRM": "88642156-8",
+		"pacienteCPF": "476.365.243-44",
+		"valor_exame": 105.07,
+		"descrição": "laoreet posuere, enim nisl elementum purus, accumsan",
+		"data": "10/02/2022",
+		"resultado": "et ipsum cursus vestibulum. Mauris magna. Duis dignissim tempor arcu. Vestibulum ut"
+	},
+	{
+		"medicoCRM": "41277238-3",
+		"pacienteCPF": "658.173.327-37",
+		"valor_exame": 81.92,
+		"descrição": "orci tincidunt adipiscing. Mauris molestie pharetra nibh. Aliquam ornare, libero at auctor",
+		"data": "03/05/2022",
+		"resultado": "ullamcorper viverra. Maecenas iaculis aliquet diam. Sed diam lorem, auctor quis, tristique ac, eleifend vitae, erat. Vivamus"
+	},
+	{
+		"medicoCRM": "85318185-2",
+		"pacienteCPF": "884.928.654-72",
+		"valor_exame": 134.01,
+		"descrição": "semper erat, in consectetuer ipsum nunc id enim. Curabitur massa. Vestibulum accumsan neque",
+		"data": "12/24/2021",
+		"resultado": "dolor vitae dolor. Donec fringilla. Donec feugiat metus sit amet ante. Vivamus non lorem vitae odio sagittis semper. Nam"
+	},
+	{
+		"medicoCRM": "43920551-1",
+		"pacienteCPF": "517.168.458-61",
+		"valor_exame": 134.62,
+		"descrição": "massa rutrum magna. Cras convallis convallis dolor. Quisque tincidunt pede ac urna. Ut tincidunt vehicula risus. Nulla eget metus",
+		"data": "07/20/2022",
+		"resultado": "tortor, dictum eu, placerat eget, venenatis a,"
+	},
+	{
+		"medicoCRM": "85305286-8",
+		"pacienteCPF": "270.885.351-72",
+		"valor_exame": 81.82,
+		"descrição": "Fusce mi lorem, vehicula et, rutrum eu, ultrices",
+		"data": "03/08/2022",
+		"resultado": "non"
+	},
+	{
+		"medicoCRM": "64934211-4",
+		"pacienteCPF": "142.273.333-35",
+		"valor_exame": 112.22,
+		"descrição": "nascetur ridiculus mus.",
+		"data": "12/21/2022",
+		"resultado": "et netus et malesuada fames ac turpis egestas. Aliquam"
+	},
+	{
+		"medicoCRM": "93536123-4",
+		"pacienteCPF": "265.241.037-26",
+		"valor_exame": 112.87,
+		"descrição": "inceptos hymenaeos. Mauris ut quam vel sapien imperdiet ornare. In faucibus. Morbi vehicula. Pellentesque tincidunt tempus risus. Donec",
+		"data": "01/25/2022",
+		"resultado": "elit. Aliquam auctor, velit"
+	},
+	{
+		"medicoCRM": "73258385-4",
+		"pacienteCPF": "347.182.337-71",
+		"valor_exame": 70.79,
+		"descrição": "tellus",
+		"data": "05/25/2022",
+		"resultado": "orci. Ut sagittis lobortis mauris. Suspendisse"
+	},
+	{
+		"medicoCRM": "53836467-7",
+		"pacienteCPF": "713.941.665-59",
+		"valor_exame": 125.74,
+		"descrição": "molestie orci",
+		"data": "10/18/2022",
+		"resultado": "dapibus gravida. Aliquam tincidunt, nunc ac mattis ornare, lectus ante dictum mi,"
+	},
+	{
+		"medicoCRM": "42787984-0",
+		"pacienteCPF": "571.776.116-47",
+		"valor_exame": 87.11,
+		"descrição": "eu metus. In lorem. Donec elementum, lorem ut aliquam",
+		"data": "04/28/2023",
+		"resultado": "Vestibulum ante"
+	},
+	{
+		"medicoCRM": "39823743-3",
+		"pacienteCPF": "227.732.520-64",
+		"valor_exame": 113.54,
+		"descrição": "dui nec urna suscipit nonummy. Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in faucibus orci luctus et",
+		"data": "06/13/2022",
+		"resultado": "sed, est. Nunc laoreet lectus quis massa. Mauris vestibulum, neque sed dictum eleifend, nunc risus"
+	},
+	{
+		"medicoCRM": "77271835-8",
+		"pacienteCPF": "659.767.465-64",
+		"valor_exame": 98.16,
+		"descrição": "natoque penatibus et magnis dis parturient montes, nascetur",
+		"data": "02/04/2023",
+		"resultado": "tellus id nunc interdum feugiat. Sed nec metus facilisis lorem tristique aliquet. Phasellus"
+	},
+	{
+		"medicoCRM": "44329685-1",
+		"pacienteCPF": "422.371.553-02",
+		"valor_exame": 99.96,
+		"descrição": "libero est, congue a, aliquet",
+		"data": "01/31/2022",
+		"resultado": "augue porttitor interdum. Sed auctor odio a purus. Duis elementum, dui quis accumsan convallis, ante lectus convallis est,"
+	},
+	{
+		"medicoCRM": "27475713-8",
+		"pacienteCPF": "326.380.613-07",
+		"valor_exame": 115.22,
+		"descrição": "nec tellus. Nunc lectus pede, ultrices a, auctor non, feugiat nec, diam. Duis mi enim, condimentum eget, volutpat ornare,",
+		"data": "11/18/2023",
+		"resultado": "ligula. Nullam enim. Sed nulla ante, iaculis nec, eleifend non, dapibus rutrum, justo. Praesent luctus."
+	},
+	{
+		"medicoCRM": "45633832-2",
+		"pacienteCPF": "432.874.984-05",
+		"valor_exame": 109.93,
+		"descrição": "sodales nisi",
+		"data": "07/21/2023",
+		"resultado": "in, hendrerit consectetuer, cursus et, magna. Praesent interdum ligula eu enim. Etiam imperdiet dictum magna. Ut tincidunt orci quis lectus."
+	},
+	{
+		"medicoCRM": "54454803-5",
+		"pacienteCPF": "539.338.652-14",
+		"valor_exame": 101.00,
+		"descrição": "odio. Etiam ligula tortor, dictum eu, placerat eget, venenatis a, magna. Lorem ipsum dolor sit",
+		"data": "08/03/2022",
+		"resultado": "blandit congue. In scelerisque"
+	},
+	{
+		"medicoCRM": "37431898-8",
+		"pacienteCPF": "109.161.277-36",
+		"valor_exame": 110.08,
+		"descrição": "Curabitur dictum. Phasellus in felis. Nulla tempor augue",
+		"data": "03/28/2023",
+		"resultado": "neque sed dictum eleifend,"
+	},
+	{
+		"medicoCRM": "83176655-3",
+		"pacienteCPF": "142.062.775-42",
+		"valor_exame": 85.44,
+		"descrição": "rutrum eu, ultrices sit amet, risus. Donec nibh enim, gravida sit amet,",
+		"data": "05/03/2023",
+		"resultado": "sit amet luctus vulputate, nisi sem semper"
+	},
+	{
+		"medicoCRM": "36823712-9",
+		"pacienteCPF": "556.254.518-88",
+		"valor_exame": 82.87,
+		"descrição": "dui. Fusce aliquam, enim nec tempus scelerisque, lorem ipsum sodales purus, in molestie tortor",
+		"data": "03/30/2023",
+		"resultado": "est. Mauris eu turpis. Nulla aliquet. Proin velit. Sed malesuada augue ut"
+	},
+	{
+		"medicoCRM": "43036813-7",
+		"pacienteCPF": "322.878.361-41",
+		"valor_exame": 135.25,
+		"descrição": "urna, nec luctus felis purus ac tellus. Suspendisse sed dolor. Fusce mi lorem, vehicula et, rutrum eu,",
+		"data": "05/18/2023",
+		"resultado": "ut lacus. Nulla tincidunt, neque vitae semper egestas, urna justo faucibus lectus,"
+	},
+	{
+		"medicoCRM": "44123294-8",
+		"pacienteCPF": "575.223.488-53",
+		"valor_exame": 62.36,
+		"descrição": "est, vitae sodales nisi magna sed dui. Fusce aliquam, enim nec tempus scelerisque, lorem ipsum",
+		"data": "07/22/2022",
+		"resultado": "Aenean eget metus. In nec orci. Donec nibh. Quisque nonummy ipsum non"
+	},
+	{
+		"medicoCRM": "88174026-2",
+		"pacienteCPF": "228.497.312-61",
+		"valor_exame": 114.94,
+		"descrição": "id nunc interdum",
+		"data": "11/16/2022",
+		"resultado": "est ac facilisis facilisis, magna"
+	},
+	{
+		"medicoCRM": "13567249-3",
+		"pacienteCPF": "815.332.051-22",
+		"valor_exame": 72.70,
+		"descrição": "Mauris nulla. Integer urna. Vivamus molestie dapibus ligula. Aliquam erat",
+		"data": "09/10/2022",
+		"resultado": "Integer in"
+	},
+	{
+		"medicoCRM": "45181081-7",
+		"pacienteCPF": "474.443.278-42",
+		"valor_exame": 129.74,
+		"descrição": "neque. Morbi quis urna. Nunc quis arcu vel quam dignissim pharetra. Nam ac",
+		"data": "10/08/2022",
+		"resultado": "Duis cursus, diam at pretium aliquet, metus"
+	},
+	{
+		"medicoCRM": "50684658-4",
+		"pacienteCPF": "971.732.677-75",
+		"valor_exame": 132.64,
+		"descrição": "ac, fermentum",
+		"data": "04/10/2022",
+		"resultado": "ac tellus. Suspendisse sed dolor. Fusce mi lorem, vehicula et, rutrum eu, ultrices sit amet,"
+	},
+	{
+		"medicoCRM": "96859166-7",
+		"pacienteCPF": "784.540.173-77",
+		"valor_exame": 87.37,
+		"descrição": "a felis ullamcorper viverra. Maecenas iaculis aliquet diam. Sed diam lorem, auctor quis, tristique ac,",
+		"data": "02/27/2023",
+		"resultado": "vehicula. Pellentesque tincidunt tempus risus. Donec egestas. Duis ac arcu. Nunc mauris. Morbi non sapien"
+	},
+	{
+		"medicoCRM": "75273363-4",
+		"pacienteCPF": "638.282.388-28",
+		"valor_exame": 91.11,
+		"descrição": "congue a, aliquet vel, vulputate eu, odio. Phasellus at augue id ante dictum cursus. Nunc mauris elit, dictum",
+		"data": "10/09/2022",
+		"resultado": "id ante dictum cursus. Nunc mauris elit, dictum eu, eleifend nec, malesuada ut, sem."
+	},
+	{
+		"medicoCRM": "76691602-4",
+		"pacienteCPF": "212.938.596-44",
+		"valor_exame": 69.83,
+		"descrição": "ipsum.",
+		"data": "05/05/2022",
+		"resultado": "pharetra nibh. Aliquam ornare, libero at auctor ullamcorper, nisl arcu iaculis"
+	},
+	{
+		"medicoCRM": "41656526-0",
+		"pacienteCPF": "347.967.564-77",
+		"valor_exame": 90.50,
+		"descrição": "risus a ultricies",
+		"data": "06/29/2022",
+		"resultado": "Fusce aliquam, enim nec tempus scelerisque, lorem ipsum sodales purus, in molestie tortor nibh sit amet orci. Ut sagittis"
+	},
+	{
+		"medicoCRM": "37684743-1",
+		"pacienteCPF": "880.723.938-29",
+		"valor_exame": 119.89,
+		"descrição": "primis in faucibus orci luctus et ultrices posuere cubilia Curae Donec tincidunt. Donec vitae erat vel",
+		"data": "10/02/2023",
+		"resultado": "porttitor vulputate, posuere vulputate, lacus. Cras"
+	},
+	{
+		"medicoCRM": "51366360-1",
+		"pacienteCPF": "717.660.664-71",
+		"valor_exame": 98.71,
+		"descrição": "lorem ac risus. Morbi metus. Vivamus euismod urna. Nullam lobortis quam a felis ullamcorper viverra. Maecenas iaculis aliquet",
+		"data": "05/11/2023",
+		"resultado": "Vestibulum ut eros non enim commodo hendrerit. Donec porttitor tellus non magna. Nam ligula elit,"
+	},
+	{
+		"medicoCRM": "34796511-8",
+		"pacienteCPF": "636.916.767-19",
+		"valor_exame": 88.19,
+		"descrição": "auctor velit. Aliquam nisl. Nulla eu neque pellentesque",
+		"data": "11/05/2022",
+		"resultado": "blandit enim consequat purus. Maecenas libero est, congue a, aliquet vel, vulputate eu, odio. Phasellus at augue"
+	},
+	{
+		"medicoCRM": "59978411-7",
+		"pacienteCPF": "221.680.208-33",
+		"valor_exame": 91.76,
+		"descrição": "imperdiet dictum magna.",
+		"data": "03/15/2023",
+		"resultado": "Suspendisse tristique neque venenatis lacus. Etiam bibendum fermentum metus. Aenean sed pede nec ante"
+	},
+	{
+		"medicoCRM": "76975451-4",
+		"pacienteCPF": "893.176.286-33",
+		"valor_exame": 146.96,
+		"descrição": "mollis nec, cursus a,",
+		"data": "05/24/2023",
+		"resultado": "parturient montes,"
+	},
+	{
+		"medicoCRM": "56974156-3",
+		"pacienteCPF": "324.444.893-94",
+		"valor_exame": 35.45,
+		"descrição": "justo. Praesent luctus. Curabitur egestas nunc",
+		"data": "01/02/2022",
+		"resultado": "adipiscing. Mauris molestie pharetra nibh. Aliquam ornare, libero"
+	},
+	{
+		"medicoCRM": "23573234-4",
+		"pacienteCPF": "347.292.957-21",
+		"valor_exame": 128.03,
+		"descrição": "libero. Integer in magna. Phasellus dolor elit, pellentesque",
+		"data": "09/04/2022",
+		"resultado": "diam. Duis mi enim, condimentum eget, volutpat ornare, facilisis eget, ipsum. Donec sollicitudin"
+	},
+	{
+		"medicoCRM": "88412321-4",
+		"pacienteCPF": "874.714.541-39",
+		"valor_exame": 62.66,
+		"descrição": "Praesent eu dui. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean",
+		"data": "06/10/2022",
+		"resultado": "et, rutrum non, hendrerit id, ante. Nunc mauris sapien, cursus in,"
+	},
+	{
+		"medicoCRM": "17861216-6",
+		"pacienteCPF": "228.965.656-14",
+		"valor_exame": 95.48,
+		"descrição": "lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada id, erat. Etiam",
+		"data": "06/19/2023",
+		"resultado": "libero lacus, varius et, euismod et, commodo at, libero. Morbi accumsan laoreet ipsum. Curabitur consequat,"
+	},
+	{
+		"medicoCRM": "62894338-7",
+		"pacienteCPF": "841.882.776-66",
+		"valor_exame": 93.39,
+		"descrição": "eleifend non, dapibus rutrum, justo. Praesent luctus. Curabitur egestas nunc sed libero. Proin sed turpis nec mauris blandit",
+		"data": "11/15/2022",
+		"resultado": "adipiscing, enim mi tempor lorem, eget mollis lectus pede et risus. Quisque libero lacus, varius et, euismod et, commodo"
+	},
+	{
+		"medicoCRM": "51615168-5",
+		"pacienteCPF": "778.610.569-58",
+		"valor_exame": 83.62,
+		"descrição": "et malesuada",
+		"data": "04/22/2022",
+		"resultado": "Integer aliquam adipiscing lacus. Ut nec urna et"
+	},
+	{
+		"medicoCRM": "28187841-8",
+		"pacienteCPF": "732.297.469-83",
+		"valor_exame": 91.26,
+		"descrição": "at auctor ullamcorper, nisl arcu iaculis enim, sit amet ornare lectus justo eu arcu. Morbi sit amet massa. Quisque",
+		"data": "02/15/2022",
+		"resultado": "dui quis accumsan"
+	},
+	{
+		"medicoCRM": "62340772-8",
+		"pacienteCPF": "660.194.732-58",
+		"valor_exame": 129.33,
+		"descrição": "eu nibh vulputate mauris sagittis placerat. Cras dictum ultricies ligula. Nullam enim. Sed",
+		"data": "08/27/2022",
+		"resultado": "sed dui. Fusce aliquam, enim nec tempus scelerisque,"
+	},
+	{
+		"medicoCRM": "68487361-7",
+		"pacienteCPF": "689.981.348-79",
+		"valor_exame": 73.75,
+		"descrição": "luctus aliquet odio. Etiam ligula tortor, dictum eu, placerat eget, venenatis a, magna. Lorem ipsum",
+		"data": "01/26/2022",
+		"resultado": "pulvinar arcu et pede. Nunc sed orci lobortis augue scelerisque"
+	},
+	{
+		"medicoCRM": "83464121-7",
+		"pacienteCPF": "465.543.271-58",
+		"valor_exame": 93.04,
+		"descrição": "lacus. Aliquam rutrum lorem ac",
+		"data": "08/30/2022",
+		"resultado": "Curabitur sed tortor. Integer aliquam adipiscing lacus."
+	},
+	{
+		"medicoCRM": "62520576-8",
+		"pacienteCPF": "808.242.537-47",
+		"valor_exame": 53.85,
+		"descrição": "parturient montes, nascetur ridiculus mus. Aenean eget magna. Suspendisse tristique neque venenatis lacus. Etiam bibendum fermentum metus. Aenean",
+		"data": "06/25/2022",
+		"resultado": "dui. Fusce diam nunc, ullamcorper eu, euismod"
+	},
+	{
+		"medicoCRM": "91486877-3",
+		"pacienteCPF": "268.245.227-71",
+		"valor_exame": 57.32,
+		"descrição": "risus a ultricies adipiscing, enim mi tempor lorem, eget",
+		"data": "06/25/2023",
+		"resultado": "Vivamus non lorem vitae odio sagittis"
+	},
+	{
+		"medicoCRM": "48413046-4",
+		"pacienteCPF": "304.438.310-05",
+		"valor_exame": 85.85,
+		"descrição": "Fusce dolor quam, elementum at, egestas a, scelerisque sed, sapien. Nunc pulvinar arcu et pede. Nunc sed",
+		"data": "03/02/2022",
+		"resultado": "nisi. Aenean eget metus. In nec orci. Donec nibh. Quisque nonummy ipsum non"
+	},
+	{
+		"medicoCRM": "45866716-4",
+		"pacienteCPF": "751.453.134-68",
+		"valor_exame": 94.31,
+		"descrição": "scelerisque, lorem",
+		"data": "06/26/2023",
+		"resultado": "a odio semper cursus. Integer mollis. Integer tincidunt aliquam arcu."
+	},
+	{
+		"medicoCRM": "60852751-2",
+		"pacienteCPF": "789.491.878-09",
+		"valor_exame": 110.96,
+		"descrição": "arcu. Morbi sit amet massa. Quisque porttitor eros nec tellus. Nunc lectus pede,",
+		"data": "03/03/2022",
+		"resultado": "faucibus leo, in lobortis tellus justo sit amet nulla. Donec non justo. Proin"
+	},
+	{
+		"medicoCRM": "68334774-1",
+		"pacienteCPF": "882.566.623-68",
+		"valor_exame": 68.10,
+		"descrição": "ut dolor dapibus gravida. Aliquam tincidunt, nunc ac mattis ornare, lectus ante dictum mi,",
+		"data": "10/26/2023",
+		"resultado": "consequat enim diam"
+	},
+	{
+		"medicoCRM": "77268215-7",
+		"pacienteCPF": "794.268.388-54",
+		"valor_exame": 73.43,
+		"descrição": "egestas blandit. Nam nulla magna, malesuada vel, convallis in, cursus et, eros.",
+		"data": "11/22/2022",
+		"resultado": "lectus. Nullam suscipit, est ac facilisis facilisis, magna tellus faucibus leo, in lobortis tellus justo sit amet nulla. Donec non"
+	},
+	{
+		"medicoCRM": "38261136-6",
+		"pacienteCPF": "304.514.114-66",
+		"valor_exame": 124.34,
+		"descrição": "nascetur ridiculus mus. Proin vel nisl. Quisque fringilla euismod",
+		"data": "04/17/2023",
+		"resultado": "Quisque varius. Nam porttitor scelerisque neque. Nullam nisl. Maecenas malesuada fringilla est. Mauris eu turpis."
+	},
+	{
+		"medicoCRM": "76538967-5",
+		"pacienteCPF": "785.320.504-64",
+		"valor_exame": 112.22,
+		"descrição": "Sed eget lacus. Mauris non dui nec urna suscipit nonummy. Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in faucibus",
+		"data": "05/29/2022",
+		"resultado": "Curabitur dictum. Phasellus in felis. Nulla tempor augue ac ipsum."
+	},
+	{
+		"medicoCRM": "58816275-2",
+		"pacienteCPF": "361.634.964-68",
+		"valor_exame": 87.00,
+		"descrição": "condimentum eget, volutpat ornare,",
+		"data": "09/06/2023",
+		"resultado": "dolor."
+	},
+	{
+		"medicoCRM": "27164510-7",
+		"pacienteCPF": "361.635.696-11",
+		"valor_exame": 138.78,
+		"descrição": "Quisque purus sapien, gravida non, sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna. Cras",
+		"data": "11/04/2022",
+		"resultado": "rutrum, justo. Praesent luctus. Curabitur egestas nunc"
+	},
+	{
+		"medicoCRM": "67852835-4",
+		"pacienteCPF": "922.242.277-36",
+		"valor_exame": 38.48,
+		"descrição": "et risus. Quisque libero lacus, varius et, euismod",
+		"data": "08/02/2022",
+		"resultado": "Vivamus non lorem"
+	},
+	{
+		"medicoCRM": "76415520-9",
+		"pacienteCPF": "229.482.147-91",
+		"valor_exame": 111.62,
+		"descrição": "felis, adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus. Cras interdum.",
+		"data": "02/25/2023",
+		"resultado": "a, aliquet vel, vulputate eu, odio. Phasellus at augue id ante dictum cursus. Nunc mauris elit, dictum eu, eleifend"
+	},
+	{
+		"medicoCRM": "62565432-1",
+		"pacienteCPF": "715.575.483-52",
+		"valor_exame": 76.53,
+		"descrição": "In",
+		"data": "07/31/2023",
+		"resultado": "Donec dignissim magna a tortor."
+	},
+	{
+		"medicoCRM": "23846823-5",
+		"pacienteCPF": "796.657.372-35",
+		"valor_exame": 48.14,
+		"descrição": "justo sit amet nulla. Donec non",
+		"data": "05/23/2023",
+		"resultado": "dolor. Donec fringilla. Donec feugiat metus sit amet ante."
+	},
+	{
+		"medicoCRM": "66098867-8",
+		"pacienteCPF": "228.663.623-38",
+		"valor_exame": 139.86,
+		"descrição": "nostra, per inceptos hymenaeos. Mauris ut quam vel sapien imperdiet ornare. In",
+		"data": "09/24/2022",
+		"resultado": "sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus"
+	},
+	{
+		"medicoCRM": "48308277-5",
+		"pacienteCPF": "585.817.261-88",
+		"valor_exame": 94.33,
+		"descrição": "fringilla purus mauris a nunc. In at pede. Cras vulputate velit eu sem. Pellentesque ut",
+		"data": "05/26/2023",
+		"resultado": "imperdiet dictum magna. Ut tincidunt orci quis lectus. Nullam suscipit, est ac facilisis facilisis, magna tellus faucibus leo,"
+	},
+	{
+		"medicoCRM": "41552546-1",
+		"pacienteCPF": "768.069.871-47",
+		"valor_exame": 104.12,
+		"descrição": "mus.",
+		"data": "04/20/2022",
+		"resultado": "consectetuer mauris id sapien. Cras dolor dolor, tempus non, lacinia at, iaculis quis, pede."
+	},
+	{
+		"medicoCRM": "14655768-7",
+		"pacienteCPF": "378.581.676-98",
+		"valor_exame": 94.89,
+		"descrição": "fringilla purus mauris a",
+		"data": "09/03/2022",
+		"resultado": "vulputate eu, odio. Phasellus"
+	},
+	{
+		"medicoCRM": "75968227-6",
+		"pacienteCPF": "814.439.866-51",
+		"valor_exame": 98.64,
+		"descrição": "Pellentesque ut ipsum ac mi eleifend egestas. Sed",
+		"data": "02/07/2023",
+		"resultado": "a, facilisis non, bibendum sed, est. Nunc laoreet lectus quis massa. Mauris vestibulum,"
+	}
+]
