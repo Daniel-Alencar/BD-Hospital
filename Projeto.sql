@@ -5,12 +5,7 @@ CREATE SCHEMA IF NOT EXISTS public;
 ------> Criando Estrutura
 CREATE TABLE Medico (
 	CRM VARCHAR(15) PRIMARY KEY,
-	nome VARCHAR(100) NOT NULL,
-	telefone VARCHAR(14) NOT NULL,
-	especialização VARCHAR(100),
-	numero INT NOT NULL,
-	cep VARCHAR(9) NOT NULL,
-	rua VARCHAR(100) NOT NULL
+	nome VARCHAR(100) NOT NULL
 );
 
 DROP TABLE Medico;
@@ -685,16 +680,16 @@ VALUES
 INSERT INTO Exame (medicoCRM,pacienteCPF,valor_exame,descrição,data,resultado)
 VALUES
   ('28528430-9','974.794.264-70','70.06',
-   'tempor erat neque non quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-   Aliquam fringilla','10/13/2022','a mi fringilla mi lacinia mattis. Integer eu lacus.'),
+   'tempor erat neque non quam.
+   Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas',
+   '10/13/2022','a mi fringilla mi lacinia mattis. Integer eu lacus.'),
   ('61538681-6','974.794.264-70','87.84','feugiat non, lobortis quis, pede.','10/27/2023',
    'pretium neque. Morbi quis urna. Nunc quis arcu vel'),
   ('40782624-2','733.367.165-66','119.22','lectus rutrum urna, nec luctus felis purus ac',
    '08/23/2023','ac mattis velit justo'),
   ('40782624-2','151.651.453-32','131.18',
-   'libero nec ligula consectetuer rhoncus. Nullam velit dui, semper et, lacinia vitae, sodales at, velit.
-   Pellentesque ultricies dignissim lacus.','09/26/2023',
-   'eu, ultrices sit amet, risus. Donec nibh enim, gravida sit amet, dapibus id, blandit');
+   'libero nec ligula consectetuer rhoncus. Nullam velit dui, semper et, lacinia vitae, sodales at, velit.',
+   '09/26/2023','eu, ultrices sit amet, risus. Donec nibh enim, gravida sit amet, dapibus id, blandit');
 
 --> Dados de Consulta
 INSERT INTO Consulta (pacienteCPF,descrição,diagnóstico,valor_consulta,data,medicamento)
@@ -718,12 +713,12 @@ VALUES
    'magna. Duis dignissim tempor arcu. Vestibulum ut eros non enim commodo hendrerit.','80.43','09/25/2022',
    'consequat auctor, nunc nulla vulputate dui, nec'),
   ('251.277.224-51','cubilia Curae Phasellus',
-   'tortor, dictum eu, placerat eget, venenatis a, magna. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-   Etiam laoreet,','90.87','09/17/2022','tellus id nunc interdum feugiat. Sed nec'),
+   'tortor, dictum eu, placerat eget, venenatis a, magna. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.',
+   '90.87','09/17/2022','tellus id nunc interdum feugiat. Sed nec'),
   ('550.116.116-86','sollicitudin adipiscing ligula. Aenean gravida nunc sed','arcu. Sed eu nibh',
    '102.53','07/08/2022','In nec orci. Donec nibh. Quisque nonummy'),
-  ('355.144.983-39','Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec enim.
-   Nunc ut','dictum magna. Ut tincidunt orci quis lectus. Nullam suscipit, est',
+  ('355.144.983-39','Quisque nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec enim.',
+   'dictum magna. Ut tincidunt orci quis lectus. Nullam suscipit, est',
    '83.00','04/15/2022','luctus, ipsum leo elementum sem, vitae aliquam'),
   ('675.245.462-24','sit amet, consectetuer adipiscing elit. Curabitur sed',
    'urna justo','65.48','12/15/2022','egestas. Aliquam fringilla cursus purus. Nullam scelerisque');
@@ -745,6 +740,7 @@ VALUES
   ('98842265-0',7,'31.75'),
   ('52372542-5',7,'12.55');
 
+-- Seleciona tudo de todas as tabelas
 SELECT * FROM Medico;
 SELECT * FROM Paciente;
 SELECT * FROM Consulta;
@@ -754,7 +750,7 @@ SELECT * FROM Faz_Consulta;
 -- Procurar todas as informações de um médico específico
 SELECT * FROM Medico WHERE numero = 431;
 
--- Procutar nome, especialização e os primeiros dígitos do telefone de um médico específico
+-- Procurar nome, especialização e os primeiros dígitos do telefone de um médico específico
 SELECT nome, especialização, LPAD(telefone, 9, '*') FROM Medico WHERE numero = 431;
 
 -- Mostrar crm, nome e especialização dos médicos (com Camel Case)
@@ -881,8 +877,11 @@ HAVING COUNT(*) > 1;
 SELECT numero, COUNT(*) AS Quantidade FROM Paciente GROUP BY numero
 HAVING COUNT(*) > 1 AND (numero % 2) <> 0;
 
+-- Seleciona atributos de Exame com formatação aplicada ao valor (para valor_exame e data)
+SELECT ID_exame AS "ID_exame", CONCAT('R$ ', valor_exame) "Valor real", CONCAT(data, ' (AAAA/MM/DD)') "Data" FROM Exame;
+
 ------> Operações de conjuntos
--- UNION (elimina registros duplicados)
+UNION (elimina registros duplicados)
 SELECT CRM, nome, telefone, numero, cep, rua FROM Medico
 UNION
 SELECT CPF, nome, telefone, numero, cep, rua FROM Paciente;
@@ -898,7 +897,7 @@ UNION ALL
 SELECT CPF, nome, telefone, numero, cep, rua, 'SEM VALOR' FROM Paciente;
 
 -- INTERSECT
--- Procura Médicos com número de casa > 250 e que NÃO moram na rua que possui a string 'Street'
+Procura Médicos com número de casa > 250 e que NÃO moram na rua que possui a string 'Street'
 SELECT nome, telefone, numero, cep, rua FROM Medico
 WHERE numero > 250
 INTERSECT
