@@ -881,7 +881,7 @@ HAVING COUNT(*) > 1 AND (numero % 2) <> 0;
 SELECT ID_exame AS "ID_exame", CONCAT('R$ ', valor_exame) "Valor real", CONCAT(data, ' (AAAA/MM/DD)') "Data" FROM Exame;
 
 ------> Operações de conjuntos
-UNION (elimina registros duplicados)
+-- UNION (elimina registros duplicados)
 SELECT CRM, nome, telefone, numero, cep, rua FROM Medico
 UNION
 SELECT CPF, nome, telefone, numero, cep, rua FROM Paciente;
@@ -897,7 +897,7 @@ UNION ALL
 SELECT CPF, nome, telefone, numero, cep, rua, 'SEM VALOR' FROM Paciente;
 
 -- INTERSECT
-Procura Médicos com número de casa > 250 e que NÃO moram na rua que possui a string 'Street'
+-- Procura Médicos com número de casa > 250 e que NÃO moram na rua que possui a string 'Street'
 SELECT nome, telefone, numero, cep, rua FROM Medico
 WHERE numero > 250
 INTERSECT
@@ -920,3 +920,8 @@ EXCEPT
 (SELECT CRM, nome, telefone, numero, cep, rua FROM Medico WHERE rua IS NULL OR rua NOT LIKE '%Street%')
 EXCEPT
 (SELECT CPF, nome, telefone, numero, cep, rua FROM Paciente WHERE rua IS NULL OR rua NOT LIKE '%Street%');
+
+-- Comandos adicionais
+DELETE FROM Medico WHERE CRM ='68468547-4';
+UPDATE Paciente SET telefone = '87988448295' WHERE CPF = '974.794.264-70';
+SELECT * FROM Consulta ORDER BY valor_consulta;
